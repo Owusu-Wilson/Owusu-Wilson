@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Owusu Wilson
-- 👀 I’m interested in Data science, Artificial Intelligence(AI) and Machine Learning.
-- 🌱 I’m currently learning Data structures and algorithms.
-- 💞️ I’m looking to collaborate on | python or electron-js based GUI projects| Data Science projects.
+- 👀 A Software Engineer and Cyber Security Enthusiast.
+- 🌱 I currently build software solutions with Laravel, React (Web), react Native(Mobile Apps) and Electron JS (Desktop Apps)
 - 📫 Reach me on owusuwilson980@gmail.com
 
 <!---
